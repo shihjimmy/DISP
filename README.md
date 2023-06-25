@@ -1,2 +1,2 @@
-# NTUEE_DISP
-NTUEE Digital Image and Signal Processing ( Prof: JJ, Ding)
+# 110-2 NTUEE Special Project ( Prof: JJ, Ding) 
+Topic: Digital Image and Signal Processing  
